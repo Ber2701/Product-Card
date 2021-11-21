@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "abusaidm.html-snippets",
+        "formulahendry.auto-rename-tag",
+        "naumovs.color-highlight",
+        "esbenp.prettier-vscode",
+        "tabnine.tabnine-vscode"
+    ]
+}
